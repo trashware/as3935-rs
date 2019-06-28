@@ -1,5 +1,6 @@
 # Rust I²C/SPI driver for AS3935 Franklin Lightning Sensor IC
 
+[![Build Status](https://travis-ci.com/trashware/as3935-rs.svg?branch=master)](https://travis-ci.com/trashware/as3935-rs)
 [![crates.io](https://meritbadge.herokuapp.com/as3935)](https://crates.io/crates/as3935)
 
 This crate provides a Rust driver for the AS3935 Franklin Lightning Sensor IC.
