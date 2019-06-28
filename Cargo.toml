@@ -9,7 +9,7 @@ license = "MIT"
 name = "as3935"
 readme = "README.md"
 repository = "https://github.com/trashware/as3935-rs"
-version = "0.1.0-dev"
+version = "0.1.0-pre.1"
 
 [badges]
 travis-ci = { repository = "trashware/as3935-rs", branch = "master" }
